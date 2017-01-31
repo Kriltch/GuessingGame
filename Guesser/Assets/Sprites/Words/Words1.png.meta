@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 2ceb06133f00da4479a186d0f061f026
+timeCreated: 1483627189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Words1_0
+    21300002: Words1_1
+    21300004: Words1_2
+    21300006: Words1_3
+    21300008: Words1_4
+    21300010: Words1_5
+    21300012: Words1_6
+    21300014: Words1_7
+    21300016: Words1_8
+    21300018: Words1_9
+    21300020: Words1_10
+    21300022: Words1_11
+    21300024: Words1_12
+    21300026: Words1_13
+    21300028: Words1_14
+    21300030: Words1_15
+    21300032: Words1_16
+    21300034: Words1_17
+    21300036: Words1_18
+    21300038: Words1_19
+    21300040: Words1_20
+    21300042: Words1_21
+    21300044: Words1_22
+    21300046: Words1_23
+    21300048: Words1_24
+    21300050: Words1_25
+    21300052: Words1_26
+    21300054: Words1_27
+    21300056: Words1_28
+    21300058: Words1_29
+    21300060: Words1_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Words1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 84
+        width: 85
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 85
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 68
+        width: 85
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 68
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 68
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 51
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 34
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 17
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Words1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 85
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

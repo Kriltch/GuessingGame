@@ -1,0 +1,8 @@
+Guesser:
+make background better
+animate reln when selected
+add high score
+add tutorial
+add "are you sure" to quit screen
+add sounds
+add music
